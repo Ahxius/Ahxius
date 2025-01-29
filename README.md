@@ -1,7 +1,7 @@
 # 👨‍💻 Alex Mayfield | Cybersecurity & Digital Forensics  
 🎓 B.S. in Computer Science - Cybersecurity | Taylor University (2026)  
 🔒 Passionate about low-level security, malware analysis, and forensics  
-🛠️ Experience with EnCase, pwntools, x86 assembly, and ESP hacking  
+🛠️ Experience with C, pwntools, x86 assembly, and ESP hacking  
 🚀 Exploring cybersecurity careers in intelligence & digital forensics  
 
 ### 🛠️ Languages & Tools
