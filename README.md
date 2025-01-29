@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Alex Mayfield | Cybersecurity & Digital Forensics  
+🎓 B.S. in Computer Science - Cybersecurity | Taylor University (2026)  
+🔒 Passionate about low-level security, malware analysis, and forensics  
+🛠️ Experience with EnCase, pwntools, x86 assembly, and ESP hacking  
+🚀 Exploring cybersecurity careers in intelligence & digital forensics  
 
-<!--
-**Ahxius/Ahxius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/-x86_Assembly-007ACC?style=flat-square)
+![EnCase](https://img.shields.io/badge/-EnCase-000000?style=flat-square)
+![Pwntools](https://img.shields.io/badge/-Pwntools-000000?style=flat-square)
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects  
+- 🏴‍☠️ [Malware Traffic Analysis](https://github.com/Ahxius/malware-traffic)  
+- 🔐 [Java-Based Encryption Tool](https://github.com/Ahxius/encryption-tool)  
+- 📡 [ESP-Based Cybersecurity Gadget](https://github.com/Ahxius/esp-security-tool)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Ahxius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahxius&show_icons=true&theme=radical)
+
+🔗 [LinkedIn](#) | ✉️ Contact me via email
