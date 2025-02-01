@@ -2,7 +2,10 @@
 🎓 B.S. in Computer Science - Cybersecurity | Taylor University (2026)  
 🔒 Passionate about low-level security, malware analysis, and forensics  
 🛠️ Experience with C, pwntools, x86 assembly, and ESP hacking  
-🚀 Exploring cybersecurity careers in intelligence & digital forensics  
+🚀 Exploring cybersecurity careers in intelligence & digital forensics 
+
+### 🏆 Certifications
+- [Certified in Cybersecurity (CC) – ISC2](https://www.credly.com/badges/d5fe4162-0c50-4ff4-bb72-66a5dce2ba6f/public_url)
 
 ### 🛠️ Languages & Tools
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
