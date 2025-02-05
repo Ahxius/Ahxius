@@ -21,4 +21,4 @@
 ### 📊 GitHub Stats  
 ![Ahxius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahxius&show_icons=true&theme=radical)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mayfielda/) | ✉️ [Contact me via email](mailto://ahxius@sdf.org)
+🔗 [LinkedIn](https://www.linkedin.com/in/mayfielda/) | ✉️ [Contact me via email](mailto:ahxius@sdf.org)
